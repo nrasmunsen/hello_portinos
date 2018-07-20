@@ -1,0 +1,10 @@
+{
+    "name": "nick/hello_portinos",
+    "authors": [
+        {
+            "name": "portinos",
+            "email": "intel.portinos@gmail.com"
+        }
+    ],
+    "require": {}
+}
